@@ -1,0 +1,51 @@
+Investor_ID,First_Name,Last_Name,Gender,Date_Of_Birth,City,State,Country,Occupation,Income_Bracket,Risk_Profile,Registration_Date
+INV001,Investor001,Last001,Male,09-12-1975,Hyderabad,Karnataka,India,Doctor,<5L,Aggressive,18-12-2021
+INV002,Investor002,Last002,Male,02-07-1993,Mumbai,Maharashtra,India,Teacher,5L-10L,Aggressive,01-10-2021
+INV003,Investor003,Last003,Male,23-11-1997,Ahmedabad,Karnataka,India,Consultant,>50L,Moderate,25-01-2021
+INV004,Investor004,Last004,Male,11-07-1997,Delhi,Karnataka,India,Teacher,10L-20L,Conservative,13-02-2021
+INV005,Investor005,Last005,Male,20-06-1986,Delhi,West Bengal,India,Software Engineer,20L-50L,Aggressive,13-02-2021
+INV006,Investor006,Last006,Male,27-05-1992,Chennai,Tamil Nadu,India,Teacher,<5L,Conservative,08-11-2021
+INV007,Investor007,Last007,Female,28-04-1977,Pune,Delhi,India,Business Owner,20L-50L,Aggressive,06-06-2021
+INV008,Investor008,Last008,Female,22-04-1986,Delhi,Gujarat,India,Data Analyst,>50L,Aggressive,18-03-2021
+INV009,Investor009,Last009,Male,13-08-1980,Delhi,Gujarat,India,Teacher,10L-20L,Conservative,27-04-2021
+INV010,Investor010,Last010,Male,13-06-2000,Delhi,Maharashtra,India,Teacher,>50L,Aggressive,07-06-2021
+INV011,Investor011,Last011,Female,15-11-1987,Bengaluru,Telangana,India,Doctor,5L-10L,Aggressive,18-09-2021
+INV012,Investor012,Last012,Female,14-10-1998,Ahmedabad,Telangana,India,Teacher,5L-10L,Aggressive,03-08-2021
+INV013,Investor013,Last013,Male,05-02-2002,Bengaluru,West Bengal,India,Manager,>50L,Conservative,13-07-2021
+INV014,Investor014,Last014,Female,18-05-1991,Mumbai,Gujarat,India,Data Analyst,>50L,Moderate,11-11-2021
+INV015,Investor015,Last015,Male,06-07-1984,Kolkata,Maharashtra,India,Business Owner,>50L,Conservative,04-09-2021
+INV016,Investor016,Last016,Female,17-11-2001,Hyderabad,Karnataka,India,Chartered Accountant,5L-10L,Aggressive,01-09-2021
+INV017,Investor017,Last017,Female,04-01-1990,Chennai,West Bengal,India,Business Owner,5L-10L,Conservative,19-04-2021
+INV018,Investor018,Last018,Male,16-12-1977,Pune,West Bengal,India,Doctor,5L-10L,Aggressive,18-08-2021
+INV019,Investor019,Last019,Male,28-09-1983,Ahmedabad,Karnataka,India,Teacher,10L-20L,Moderate,21-11-2021
+INV020,Investor020,Last020,Female,15-09-1989,Pune,Karnataka,India,Teacher,<5L,Moderate,19-01-2021
+INV021,Investor021,Last021,Male,01-04-1993,Pune,Gujarat,India,Software Engineer,5L-10L,Conservative,28-01-2021
+INV022,Investor022,Last022,Female,08-09-1977,Delhi,Gujarat,India,Consultant,5L-10L,Aggressive,24-03-2021
+INV023,Investor023,Last023,Female,26-08-1982,Ahmedabad,Karnataka,India,Data Analyst,<5L,Aggressive,12-07-2021
+INV024,Investor024,Last024,Female,28-08-1988,Mumbai,Gujarat,India,Data Analyst,<5L,Moderate,11-12-2021
+INV025,Investor025,Last025,Male,07-04-1982,Kolkata,Karnataka,India,Manager,5L-10L,Moderate,08-08-2021
+INV026,Investor026,Last026,Male,04-09-1989,Mumbai,Gujarat,India,Software Engineer,<5L,Conservative,14-03-2021
+INV027,Investor027,Last027,Female,28-04-1990,Ahmedabad,Maharashtra,India,Doctor,20L-50L,Conservative,09-07-2021
+INV028,Investor028,Last028,Female,23-07-1984,Kolkata,Karnataka,India,Teacher,10L-20L,Conservative,19-01-2021
+INV029,Investor029,Last029,Male,02-06-1998,Mumbai,Tamil Nadu,India,Consultant,>50L,Aggressive,02-03-2021
+INV030,Investor030,Last030,Male,03-03-2002,Pune,Gujarat,India,Teacher,20L-50L,Conservative,08-10-2021
+INV031,Investor031,Last031,Male,14-02-1994,Chennai,Telangana,India,Teacher,10L-20L,Conservative,13-05-2021
+INV032,Investor032,Last032,Male,10-11-1996,Kolkata,Telangana,India,Data Analyst,<5L,Moderate,19-10-2021
+INV033,Investor033,Last033,Male,07-09-1977,Delhi,Karnataka,India,Chartered Accountant,<5L,Conservative,10-06-2021
+INV034,Investor034,Last034,Male,23-09-1989,Delhi,Tamil Nadu,India,Software Engineer,>50L,Moderate,04-11-2021
+INV035,Investor035,Last035,Male,04-02-1983,Bengaluru,Telangana,India,Business Owner,>50L,Conservative,11-12-2021
+INV036,Investor036,Last036,Male,28-11-1996,Delhi,Tamil Nadu,India,Consultant,10L-20L,Conservative,21-02-2021
+INV037,Investor037,Last037,Female,02-05-2001,Mumbai,Telangana,India,Doctor,10L-20L,Conservative,15-12-2021
+INV038,Investor038,Last038,Female,04-01-1992,Pune,Gujarat,India,Doctor,>50L,Conservative,19-06-2021
+INV039,Investor039,Last039,Male,02-03-1988,Delhi,Telangana,India,Software Engineer,10L-20L,Conservative,08-11-2021
+INV040,Investor040,Last040,Male,28-09-1986,Ahmedabad,Tamil Nadu,India,Doctor,5L-10L,Conservative,14-03-2021
+INV041,Investor041,Last041,Male,11-12-1980,Ahmedabad,West Bengal,India,Teacher,10L-20L,Conservative,04-12-2021
+INV042,Investor042,Last042,Female,28-01-2002,Kolkata,Karnataka,India,Teacher,20L-50L,Moderate,27-05-2021
+INV043,Investor043,Last043,Male,22-01-1982,Hyderabad,Delhi,India,Chartered Accountant,10L-20L,Conservative,12-05-2021
+INV044,Investor044,Last044,Female,11-09-1996,Mumbai,Maharashtra,India,Business Owner,5L-10L,Aggressive,02-05-2021
+INV045,Investor045,Last045,Male,12-07-1994,Chennai,Delhi,India,Data Analyst,20L-50L,Aggressive,09-04-2021
+INV046,Investor046,Last046,Male,01-07-1997,Hyderabad,Telangana,India,Manager,<5L,Aggressive,20-06-2021
+INV047,Investor047,Last047,Female,24-02-1996,Delhi,Tamil Nadu,India,Business Owner,20L-50L,Moderate,23-07-2021
+INV048,Investor048,Last048,Female,07-03-1992,Ahmedabad,Gujarat,India,Manager,5L-10L,Aggressive,10-10-2021
+INV049,Investor049,Last049,Female,10-01-1992,Delhi,Karnataka,India,Manager,>50L,Aggressive,11-11-2021
+INV050,Investor050,Last050,Female,22-08-1989,Hyderabad,Tamil Nadu,India,Consultant,5L-10L,Aggressive,10-02-2021
