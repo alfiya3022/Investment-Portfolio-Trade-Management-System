@@ -1,0 +1,16 @@
+Broker_ID,Broker_Name,Broker_Type,Headquarters,Status
+BRK001,Zerodha,Discount Broker,Bengaluru,Active
+BRK002,Upstox,Discount Broker,Mumbai,Active
+BRK003,Groww,Discount Broker,Bengaluru,Active
+BRK004,Angel One,Full Service Broker,Mumbai,Active
+BRK005,ICICI Direct,Bank Broker,Mumbai,Active
+BRK006,HDFC Securities,Bank Broker,Mumbai,Active
+BRK007,Kotak Securities,Bank Broker,Mumbai,Active
+BRK008,Motilal Oswal,Full Service Broker,Mumbai,Active
+BRK009,Sharekhan,Full Service Broker,Mumbai,Active
+BRK010,5paisa,Discount Broker,Mumbai,Active
+BRK011,Axis Direct,Bank Broker,Mumbai,Active
+BRK012,IIFL Securities,Full Service Broker,Mumbai,Active
+BRK013,Fyers,Discount Broker,Bengaluru,Active
+BRK014,Dhan,Discount Broker,Mumbai,Active
+BRK015,Nuvama Wealth,Full Service Broker,Mumbai,Active
